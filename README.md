@@ -5,6 +5,9 @@
 
 https://github.com/aminmotahariiran/Network-Motahari/blob/6317e66452487c30a238ad9f71a49442ca9de71c/Amin_Project.ipynb
 
+#[فایل دیتاست]
+https://drive.google.com/file/d/1v5Zqv1_xAVA691v8iKapELxv-np42EwU/view?usp=sharing
+
 #[مقاله اول]
 https://drive.google.com/file/d/1Oat59r_IQEdotMS40B5efqhaLs3nx6G2/view?usp=sharing
 
