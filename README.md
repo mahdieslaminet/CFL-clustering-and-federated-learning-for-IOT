@@ -5,7 +5,7 @@
 
 https://github.com/aminmotahariiran/Network-Motahari/blob/6317e66452487c30a238ad9f71a49442ca9de71c/Amin_Project.ipynb
 
-#[خلاصه فارسی از پروژه ]
+#[خلاصه فارسی از روال کاری پروژه ]
 https://drive.google.com/file/d/1t-67W1jQbKLwoAtLbqZgbph51HVs-dC5/view?usp=drivesdk
 
 #[فایل دیتاست]
