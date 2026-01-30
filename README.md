@@ -45,3 +45,5 @@ https://drive.google.com/file/d/10TmywFs3WAHOjrvPzYgjvbC0N9FwlvqH/view?usp=shari
 #ترجمه مقاله پنجم
 https://drive.google.com/file/d/1UPhtgJ1vgxOSDE7tliN_uzVmF0PoWD59/view?usp=sharing
 
+#[لینک گوگل درایو]
+https://drive.google.com/drive/folders/1yOMl6LqS37ge_UzkyFdJHnNgK4QRw99a?usp=drive_link
