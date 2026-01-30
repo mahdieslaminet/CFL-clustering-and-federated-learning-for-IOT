@@ -10,7 +10,7 @@ https://github.com/aminmotahariiran/Network-Motahari/blob/6317e66452487c30a238ad
 https://docs.google.com/document/d/120Xc6K5pLh5H1LjMHxQVwjqhdK-tMXU_/edit?usp=sharing&ouid=113411095087862230378&rtpof=true&sd=true
 
 #[خلاصه فارسی از روال کاری پروژه ]
-https://drive.google.com/file/d/1t-67W1jQbKLwoAtLbqZgbph51HVs-dC5/view?usp=drivesdk
+https://drive.google.com/file/d/1_hrNSZyZJUrberyLRtrtCPfddvE0H5eq/view?usp=sharing
 
 #[فایل دیتاست]
 https://drive.google.com/file/d/1v5Zqv1_xAVA691v8iKapELxv-np42EwU/view?usp=sharing
