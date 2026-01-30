@@ -5,6 +5,10 @@
 
 https://github.com/aminmotahariiran/Network-Motahari/blob/6317e66452487c30a238ad9f71a49442ca9de71c/Amin_Project.ipynb
 
+#[کلمات کلیدی ]
+
+https://docs.google.com/document/d/120Xc6K5pLh5H1LjMHxQVwjqhdK-tMXU_/edit?usp=sharing&ouid=113411095087862230378&rtpof=true&sd=true
+
 #[خلاصه فارسی از روال کاری پروژه ]
 https://drive.google.com/file/d/1t-67W1jQbKLwoAtLbqZgbph51HVs-dC5/view?usp=drivesdk
 
